@@ -8,4 +8,5 @@
 <h4>Comandos</h4>
 <ul>
   <li><strong>kubectl get svc</strong> === mostra o status do cluster Kubernetes setado no arquivo config.</li>
+   <li><strong>kubectl get nodes --watch</strong> === verifica se os <emph>nos</emph> estao subindo.</li>
 </ul>
